@@ -17,7 +17,7 @@ npm run dev
   - bootstrap cdn
 
 
-**Provided by [Thiti Mahawannakit](https://facebook.com/Tthiti.developer)**
+**Provided by [Thiti Mahawannakit](https://facebook.com/thiti.developer)**
 
 <p align="center">
   <b>: Contact me By :</b><br>
